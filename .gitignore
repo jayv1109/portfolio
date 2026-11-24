@@ -6,3 +6,5 @@ Thumbs.db
 desktop.ini
 # Keep the private resume out of the public repo
 *.pdf
+!public/assets/Jayvee_Rondina_Resume.pdf
+private/
