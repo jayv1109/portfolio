@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://jayvee-rondina.vercel.app/sitemap.xml
